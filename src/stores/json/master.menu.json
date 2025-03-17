@@ -1,0 +1,122 @@
+[
+    {
+      "name": "Classic Cheeseburger",
+      "type": "food",
+      "price": 8.99,
+      "description": "A juicy beef patty topped with melted cheese, lettuce, tomato, and our signature sauce."
+    },
+    {
+      "name": "Margherita Pizza",
+      "type": "food",
+      "price": 12.99,
+      "description": "A traditional Italian pizza with fresh tomatoes, mozzarella, basil, and a crispy crust."
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "type": "food",
+      "price": 10.99,
+      "description": "Classic pasta dish with creamy sauce, crispy pancetta, and grated Parmesan cheese."
+    },
+    {
+      "name": "Grilled Salmon",
+      "type": "food",
+      "price": 15.99,
+      "description": "Fresh salmon fillet grilled to perfection, served with lemon butter sauce and vegetables."
+    },
+    {
+      "name": "Caesar Salad",
+      "type": "food",
+      "price": 7.99,
+      "description": "Crisp romaine lettuce, Parmesan cheese, croutons, and Caesar dressing."
+    },
+    {
+      "name": "French Fries",
+      "type": "food",
+      "price": 4.99,
+      "description": "Golden crispy fries served with ketchup and special seasoning."
+    },
+    {
+      "name": "Iced Caramel Latte",
+      "type": "beverage",
+      "price": 5.99,
+      "description": "Chilled espresso with caramel syrup, milk, and ice, topped with whipped cream."
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "type": "beverage",
+      "price": 3.99,
+      "description": "Freshly squeezed orange juice with no added sugar or preservatives."
+    },
+    {
+      "name": "Mango Smoothie",
+      "type": "beverage",
+      "price": 6.99,
+      "description": "A refreshing blend of fresh mango, yogurt, and honey for a creamy delight."
+    },
+    {
+      "name": "Lemon Iced Tea",
+      "type": "beverage",
+      "price": 4.49,
+      "description": "Freshly brewed black tea with lemon slices and ice, slightly sweetened."
+    },
+    {
+      "name": "Strawberry Milkshake",
+      "type": "beverage",
+      "price": 5.49,
+      "description": "Creamy milkshake made with fresh strawberries, milk, and vanilla ice cream."
+    },
+    {
+      "name": "Chocolate Brownie",
+      "type": "desert",
+      "price": 6.49,
+      "description": "Rich and fudgy chocolate brownie topped with a scoop of vanilla ice cream."
+    },
+    {
+      "name": "Blueberry Cheesecake",
+      "type": "desert",
+      "price": 7.99,
+      "description": "Creamy cheesecake with a buttery crust, topped with fresh blueberries and syrup."
+    },
+    {
+      "name": "Tiramisu",
+      "type": "desert",
+      "price": 8.99,
+      "description": "Italian coffee-flavored dessert with layers of mascarpone cheese and cocoa powder."
+    },
+    {
+      "name": "Apple Pie",
+      "type": "desert",
+      "price": 6.99,
+      "description": "Classic homemade apple pie with cinnamon-spiced apple filling and flaky crust."
+    },
+    {
+      "name": "Panna Cotta",
+      "type": "desert",
+      "price": 5.99,
+      "description": "Italian-style creamy dessert with a hint of vanilla and fresh berry topping."
+    },
+    {
+      "name": "Hot Chocolate",
+      "type": "beverage",
+      "price": 4.99,
+      "description": "Rich and creamy hot chocolate topped with whipped cream and cocoa powder."
+    },
+    {
+      "name": "Matcha Latte",
+      "type": "beverage",
+      "price": 5.99,
+      "description": "Smooth and creamy matcha green tea latte with frothed milk and a touch of honey."
+    },
+    {
+      "name": "Grilled Chicken Sandwich",
+      "type": "food",
+      "price": 9.99,
+      "description": "Grilled chicken breast with lettuce, tomato, and mayo in a toasted bun."
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "type": "food",
+      "price": 13.99,
+      "description": "Crispy pizza crust topped with pepperoni slices, mozzarella cheese, and tomato sauce."
+    }
+  ]
